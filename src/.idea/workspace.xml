@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc0a67fe-e083-4d39-a76b-76b31eb2de29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Controllers/FormateurController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Controllers/FormateurController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Controllers/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Controllers/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Models/FormateurManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Models/FormateurManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Models/FormationManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Models/StudentManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Models/StudentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projet_php_lyon_2022/src/Views/Gestion/show.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2KrPwd5cM87rLgUCaoM7qYkT3tP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc0a67fe-e083-4d39-a76b-76b31eb2de29" name="Default Changelist" comment="" />
+      <created>1674729970720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674729970720</updated>
+      <workItem from="1674729972591" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>

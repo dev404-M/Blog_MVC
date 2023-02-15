@@ -1,0 +1,15 @@
+{
+    "name": "maxime/blog-mvc",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Max-691",
+            "email": "mcluzel@edenschool.fr"
+        }
+    ],
+    "require": {}
+}
